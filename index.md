@@ -4,9 +4,9 @@ layout: default
 
 # Education
 
-- Bachelor student at Programming Technologies
+- Bachelor's student in Programming Technologies at Saint Petersburg State University
 
 # Contacts
 
-- email: bagaevtema@gmail.com
-- telegram: [@ixtrc](https://t.me/ixtrc)
+- Email: bagaevtema@gmail.com
+- Telegram: [@ixtrc](https://t.me/ixtrc)
